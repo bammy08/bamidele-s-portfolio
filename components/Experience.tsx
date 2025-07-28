@@ -30,7 +30,7 @@ const experiences = [
   {
     company: 'AoadTechnologies',
     role: 'Full Stack Developer',
-    duration: 'Mar 2022 - Dec 2024',
+    duration: 'Mar 2023 - May 2025',
     location: 'Remote',
     description: [
       'Built full-stack web applications using Node.js, Express, and MongoDB.',
@@ -43,7 +43,7 @@ const experiences = [
   {
     company: 'Tangerine Life',
     role: 'Product Designer',
-    duration: 'Jun 2016 - Feb 2019',
+    duration: 'Jun 2021 - Feb 2023',
     location: 'Hybrid',
     description: [
       'Designed intuitive UI for mobile & web applications.',
