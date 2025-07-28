@@ -105,7 +105,7 @@ export default function ContactForm() {
           >
             <Button
               type="submit"
-              className="w-full h-14 text-lg bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 rounded-xl transition-all"
+              className="w-full h-14 text-lg text-white bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 rounded-xl transition-all"
               disabled={status === 'loading'}
             >
               {status === 'loading' ? (
